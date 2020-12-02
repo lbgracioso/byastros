@@ -1,7 +1,5 @@
 # byastros
-> Gerenciador de carregadores e BBs para operadores de Airsoft.
-
-Este projeto foi feito para estudos próprios sobre a linguagem Java e bots de discord, tendo como busca principal a integração de uma API da NASA com o Discord.
+> Este projeto foi feito para estudos próprios sobre a linguagem Java e bots de discord, tendo como busca principal a integração de uma API da NASA com o Discord.
 O projeto inicial será postado no GitHub tendo apenas esta ideia em mente (até dado momento).
 
 ```

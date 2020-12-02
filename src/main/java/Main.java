@@ -18,9 +18,9 @@ import java.net.URL;
 
 public class Main extends ListenerAdapter {
 
-    private static final String token = "coloque aqui seu token do bot";
+    private static final String token = "PUT HERE YOUR BOT TOKEN";
     private static final String activity = "the sky...";
-    private static final String nasaAPI = "coloque aqui o link do apod com seu token da nasa";
+    private static final String nasaAPI = "PUT HERE YOUR NASA APOD LINK WITH YOUR TOKEN";
     private static HttpURLConnection connection;
 
     public static void main(String[] args) throws LoginException {
